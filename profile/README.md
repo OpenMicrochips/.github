@@ -1,14 +1,15 @@
 # OpenMicrochips
 
 ## Description
-The open-source Microchips (ASICs) from the department of Computer Science (CS) at Hochschule RheinMain (HSRM) are at home in this GitHub orgranization. 
+This organisation serves to bundle repositories of open-source microchips created at or by members of the department of Computer Science (CS) at the Hochschule RheinMain - University of Applied Sciences.
+Design repositories rest with their respective authors and are cloned into the organistation. Bringups, ie. code and/or documentation related to using these chips are hosted in the organisation.
 
 ##  Content
 The names of the repositories hint to the content:
 
 ### Prefixes
 
-__TTXX__ Tinytapeout XX
+__TTXX__ Tiny Tapeout run XX
 
 __GF180-MPWX__ GlobalFoundry 180nm PDK in Shuttlerun MPW-X
 
@@ -29,7 +30,7 @@ This is an overview of all the open-source microchips, in chronological order. E
 Work-in-progress:
 Empty fields will get filled over time, the infos are not ready available by now. The whole thing is updated from time to time.
 
-| TO    | Del   | I | PDK    | SR    | Ser  | Name                    | Code | GDS | BU  |
+| TO    | Del   | I   | PDK    | SR    | Ser  | Name                    | Code | GDS | BU  |
 |:------|:------|:----|:-------|:------|:-----|:------------------------|:-------|:----|:-----|
 |       |       |     | SKY130 | MPW-5 | ZtoA | ALU 74181               | [Git](https://github.com/ThorKn/alu74181) |     |      |
 | 22/05 | 24/02 |     | SKY130 | MPW-8 | EF   | VGA clock 01            | [Git](https://github.com/ThorKn/vga_clock_1) | [Git](https://github.com/ThorKn/tiny_user_project_vgaclock_mpw8) |      |
@@ -40,7 +41,7 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Skinny SBox 8 Bit       | [Wokwi](https://wokwi.com/projects/359372419264319489) | [Git](https://github.com/ThorKn/tt03_sbox_8bit_skinny) |      |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | 8x8 Bit Mem Player      | [Wokwi](https://wokwi.com/projects/341620484740219475) | [Git](https://github.com/ThorKn/tinytapeout02_pattern_player) |     |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Shiftreg Chall. 40 Bit  | [Wokwi](https://wokwi.com/projects/341516949939814994) | [Git](https://github.com/ThorKn/tinytapeout02_shiftregister_challenge) |     |
-| 23/06 |       |     | SKY130 |   ?   | TT03.5 | VGA clock 02            | [Git](https://github.com/ThorKn/vga_clock_1) | [Git](https://github.com/ThorKn/tt03p5-vgaclock-02) |      |
+| 23/06 |       |     | SKY130 |   ?   | TT03.5 | VGA clock 02          | [Git](https://github.com/ThorKn/vga_clock_1) | [Git](https://github.com/ThorKn/tt03p5-vgaclock-02) |      |
 | 23/09 | 24/04 |     | SKY130 | 2309  | TT04 | Audio PWM Synth         | ? | [Git](https://github.com/ThorKn/tt04-audio-pwm-synth) |      |
 | 23/12 | 24/06 |     | GF180  | MPW-1 | EF   | AudioChip               | [Git](https://github.com/ThorKn/icestick_spinalHDL_pwmAudio) | [Git](https://github.com/ThorKn/AudioChip) |      |
 
