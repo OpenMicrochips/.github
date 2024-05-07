@@ -42,6 +42,7 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | 8x8 Bit Mem Player      | [Wokwi](https://wokwi.com/projects/357106633951414273) | [Git](https://github.com/yannickreiss/TT3_KS-Signal)                   |  |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | KS-Signal               | [Wokwi](https://wokwi.com/projects/341620484740219475) | [Git](https://github.com/ThorKn/tinytapeout02_pattern_player)          | [Git](https://github.com/OpenMicrochips/TT02_P41_bringup) |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Skinny Sbox             | [Wokwi](https://wokwi.com/projects/359353377078748161) | [Git](https://github.com/nikals99/tt03-skinny-sbox)                    |  |
+| TO    | Del   | I   | PDK    | SR    | Ser  | Name                    | Code   | GDS | BU   |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Stateful Lock           | [Wokwi](https://wokwi.com/projects/359357227471086593) | [Git](https://github.com/Syndace/tt03-stateful-lock)                   |  |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Ascon Sbox              | [Wokwi](https://wokwi.com/projects/359360834113498113) | [Git](https://github.com/sopmacF/tt03-ascon-sbox)                      |  |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Verilog LFSR            | [Git](https://github.com/gr33nstyle/tt03-verilog-lfsr) | [Git](https://github.com/gr33nstyle/tt03-verilog-lfsr)                 |  |
@@ -52,6 +53,7 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | 4bit Adder              | [Git](https://github.com/yannickreiss/TT3_dot_op)      | [Git](https://github.com/yannickreiss/TT3_dot_op)                      |  |  
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Shiftreg Chall. 40 Bit  | [Wokwi](https://wokwi.com/projects/341516949939814994) | [Git](https://github.com/ThorKn/tinytapeout02_shiftregister_challenge) |  |
 | 23/06 |       |     | SKY130 |   ?   | TT03.5 | VGA clock 02          | [Git](https://github.com/ThorKn/vga_clock_1)                 | [Git](https://github.com/ThorKn/tt03p5-vgaclock-02)              |  |
+| TO    | Del   | I   | PDK    | SR    | Ser  | Name                    | Code   | GDS | BU   |
 | 23/09 | 24/04 |     | SKY130 | 2309  | TT04 | Audio PWM Synth         | [Git](https://github.com/ThorKn/tt04-audio-pwm-synth)        | [Git](https://github.com/ThorKn/tt04-audio-pwm-synth)            |  |
 | 23/09 | 24/04 |     | SKY130 | 2309  | TT04 | Ripple Carry Adder      | [Git](https://github.com/yannickreiss/tt04-ripple-carry-adder) | [Git](https://github.com/yannickreiss/tt04-ripple-carry-adder) |  |
 | 23/12 | 24/06 |     | GF180  | MPW-1 | EF   | AudioChip               | [Git](https://github.com/ThorKn/icestick_spinalHDL_pwmAudio) | [Git](https://github.com/ThorKn/AudioChip)                       |  |
