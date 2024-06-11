@@ -57,11 +57,13 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 23/09 | 24/04 |     | SKY130 | 2309  | TT04 | Audio PWM Synth         | [Git](https://github.com/ThorKn/tt04-audio-pwm-synth)        | [Git](https://github.com/ThorKn/tt04-audio-pwm-synth)            |  |
 | 23/09 | 24/04 |     | SKY130 | 2309  | TT04 | Ripple Carry Adder      | [Git](https://github.com/yannickreiss/tt04-ripple-carry-adder) | [Git](https://github.com/yannickreiss/tt04-ripple-carry-adder) |  |
 | 23/12 | 24/06 |     | GF180  | MPW-1 | EF   | AudioChip               | [Git](https://github.com/ThorKn/icestick_spinalHDL_pwmAudio) | [Git](https://github.com/ThorKn/AudioChip)                       |  |
+| 23/12 |       |     | IHP130 |       |      | HEP hardware security module | [Git](https://github.com/HEP-Alliance/hsm?tab=readme-ov-file) | [Git](https://github.com/HEP-Alliance/hsm/releases/tag/tapeout-dec-23) |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | PiMac                   | [Git](https://github.com/SteffenReith/TT06_PiMac)            | [Git](https://github.com/SteffenReith/TT06_PiMac)                |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Alternating Step Gen    | [Git](https://github.com/SteffenReith/TT06_ASG)              | [Git](https://github.com/SteffenReith/TT06_ASG)                  |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | AudioChip v2            | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)           | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)               |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Simple Stopwatch        | [Git](https://github.com/faramire/TT06-simple-stopwatch)     | [Git](https://github.com/faramire/TT06-simple-stopwatch)         |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Gate Guesser            | [Git](https://github.com/faramire/TT06-gate-guesser)         | [Git](https://github.com/faramire/TT06-gate-guesser)             |  |
+| 24/05 |       |     | IHP130 |       |      | ElemRV µController      | [Git](https://github.com/dnltz/ElemRV-init)                  | [Git](https://github.com/IHP-GmbH/IHP-Open-DesignLib/tree/main/ElemRV)             |  |
 
 #### Calendar columns
 
