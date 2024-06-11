@@ -39,8 +39,8 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 22/12 | 24/01 | Y   | SKY130 | 2211Q | TT02 | 8x8 Bit Mem Player      | [Wokwi](https://wokwi.com/projects/341620484740219475) | [Git](https://github.com/ThorKn/tinytapeout02_pattern_player)          |  |
 | 22/12 | 24/01 | Y   | SKY130 | 2211Q | TT02 | Shiftreg Chall. 40 Bit  | [Wokwi](https://wokwi.com/projects/341516949939814994) | [Git](https://github.com/ThorKn/tinytapeout02_shiftregister_challenge) |  |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | 4x4 Memory              | [Wokwi](https://wokwi.com/projects/357897381919942657) | [Git](https://github.com/yannickreiss/TT3_Memory)                      |  |
-| 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | 8x8 Bit Mem Player      | [Wokwi](https://wokwi.com/projects/357106633951414273) | [Git](https://github.com/yannickreiss/TT3_KS-Signal)                   |  |
-| 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | KS-Signal               | [Wokwi](https://wokwi.com/projects/341620484740219475) | [Git](https://github.com/ThorKn/tinytapeout02_pattern_player)          | [Git](https://github.com/OpenMicrochips/TT02_P41_bringup) |
+| 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | 8x8 Bit Mem Player      | [Wokwi](https://wokwi.com/projects/357106633951414273) | [Git](https://github.com/ThorKn/tinytapeout02_pattern_player)          | [Git](https://github.com/OpenMicrochips/TT02_P41_bringup) |
+| 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | KS-Signal               | [Wokwi](https://wokwi.com/projects/341620484740219475) | [Git](https://github.com/yannickreiss/TT3_KS-Signal)                   |  |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Skinny Sbox             | [Wokwi](https://wokwi.com/projects/359353377078748161) | [Git](https://github.com/nikals99/tt03-skinny-sbox)                    |  |
 |**TO** |**Del**|**I**|**PDK** |**SR** |**Ser**| **Name**               | **Code** | **GDS** | **BU** |
 | 23/04 | 24/03 |     | SKY130 | 2304C | TT03 | Stateful Lock           | [Wokwi](https://wokwi.com/projects/359357227471086593) | [Git](https://github.com/Syndace/tt03-stateful-lock)                   |  |
