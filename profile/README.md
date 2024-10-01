@@ -50,7 +50,7 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 23/04 | 24/03 | Y   | SKY130 | 2304C | TT03 | 8bit Binary Door Lock   | [Wokwi](https://wokwi.com/projects/359387860730498049) | [Git](https://github.com/marcusmichaely/tt03_8Bit_BinaryDoorLock)      |  |
 | 23/04 | 24/03 | Y   | SKY130 | 2304C | TT03 | 4bit Adder              | [Wokwi](https://wokwi.com/projects/354091612057990145) | [Git](https://github.com/SchreinerCarin/tt03-4bit-adder)               |  |
 | 23/04 | 24/03 | Y   | SKY130 | 2304C | TT03 | Catch the Fish          | [Wokwi](https://wokwi.com/projects/360014965627378689) | [Git](https://github.com/SchreinerCarin/tt03-ctf)                      |  |
-| 23/04 | 24/03 | Y   | SKY130 | 2304C | TT03 | 4bit Adder              | [Git](https://github.com/yannickreiss/TT3_dot_op)      | [Git](https://github.com/yannickreiss/TT3_dot_op)                      |  |  
+| 23/04 | 24/03 | Y   | SKY130 | 2304C | TT03 | Dot operation calculator | [Git](https://github.com/yannickreiss/TT3_dot_op)     | [Git](https://github.com/yannickreiss/TT3_dot_op)                      |  |  
 | 23/04 | 24/03 | Y   | SKY130 | 2304C | TT03 | Shiftreg Chall. 40 Bit  | [Wokwi](https://wokwi.com/projects/341516949939814994) | [Git](https://github.com/ThorKn/tinytapeout02_shiftregister_challenge) |  |
 | 23/06 |       |     | SKY130 |   ?   | TT03.5 | VGA clock 02          | [Git](https://github.com/ThorKn/vga_clock_1)                 | [Git](https://github.com/ThorKn/tt03p5-vgaclock-02)              |  |
 |**TO** |**Del**|**I**|**PDK** |**SR** |**Ser**| **Name**               | **Code** | **GDS** | **BU** |
@@ -63,7 +63,10 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | AudioChip v2            | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)           | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)               |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Simple Stopwatch        | [Git](https://github.com/faramire/TT06-simple-stopwatch)     | [Git](https://github.com/faramire/TT06-simple-stopwatch)         |  |
 | 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Gate Guesser            | [Git](https://github.com/faramire/TT06-gate-guesser)         | [Git](https://github.com/faramire/TT06-gate-guesser)             |  |
-| 24/05 |       |     | IHP130 |       |      | ElemRV µController      | [Git](https://github.com/dnltz/ElemRV-init)                  | [Git](https://github.com/IHP-GmbH/IHP-Open-DesignLib/tree/main/ElemRV)             |  |
+| 24/05 |       |     | IHP130 |       |      | ElemRV µController      | [Git](https://github.com/dnltz/ElemRV-init)                  | [Git](https://github.com/IHP-GmbH/IHP-Open-DesignLib/tree/main/ElemRV) |  |
+|**TO** |**Del**|**I**|**PDK** |**SR** |**Ser**| **Name**               | **Code** | **GDS** | **BU** |
+| 24/09 | 25/05 |     | SKY130 | 2409  | TT08 | Simple Stopwatch        | [Git](https://github.com/faramire/TT08-simple-stopwatch)     | [Git](https://github.com/faramire/TT08-simple-stopwatch)         |  |
+| 24/09 | 25/05 |     | SKY130 | 2409  | TT08 | Rotary Encoder WS2812B Control | [Git](https://github.com/faramire/TT08-rotary-encoder-WS2812B) | [Git](https://github.com/faramire/TT08-rotary-encoder-WS2812B) |  |
 
 #### Calendar columns
 
