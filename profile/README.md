@@ -1,10 +1,12 @@
 # OpenMicrochips
 
 ## Description
-This organisation serves to bundle repositories of open-source microchips created at or by members of the department of Computer Science (CS) at the Hochschule RheinMain - University of Applied Sciences.
+
+This organisation serves to bundle repositories of open-source microchips created at or by members of the faculty of Computer Science (CS) at the Hochschule RheinMain - University of Applied Sciences.
 Design repositories rest with their respective authors and are cloned into the organistation. Bringups, ie. code and/or documentation related to using these chips are hosted in the organisation.
 
 ##  Content
+
 The names of the repositories hint to the content:
 
 ### Prefixes
@@ -25,6 +27,7 @@ __bringup__ Files and docs for bringing a chip to life (installation in Lab)
 __NAME__ Name of the chip. Contains the design files and/or the GDS
 
 ## Calendar
+
 This is an overview of all the open-source microchips, in chronological order. Each row displays the information of a single microchip design. The columns are explained below the list. Some of the fields link to external sites. 
 
 Work-in-progress:
@@ -58,11 +61,11 @@ Empty fields will get filled over time, the infos are not ready available by now
 | 23/09 | 24/04 | Y   | SKY130 | 2309  | TT04 | Ripple Carry Adder      | [Git](https://github.com/yannickreiss/tt04-ripple-carry-adder) | [Git](https://github.com/yannickreiss/tt04-ripple-carry-adder) |  |
 | 23/12 | 24/06 |     | GF180  | MPW-1 | EF   | AudioChip               | [Git](https://github.com/ThorKn/icestick_spinalHDL_pwmAudio) | [Git](https://github.com/ThorKn/AudioChip)                       |  |
 | 23/12 |       |     | IHP130 |       |      | HEP hardware security module | [Git](https://github.com/HEP-Alliance/hsm?tab=readme-ov-file) | [Git](https://github.com/HEP-Alliance/hsm/releases/tag/tapeout-dec-23) |  |
-| 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | PiMac                   | [Git](https://github.com/SteffenReith/TT06_PiMac)            | [Git](https://github.com/SteffenReith/TT06_PiMac)                |  |
-| 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Alternating Step Gen    | [Git](https://github.com/SteffenReith/TT06_ASG)              | [Git](https://github.com/SteffenReith/TT06_ASG)                  |  |
-| 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | AudioChip v2            | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)           | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)               |  |
-| 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Simple Stopwatch        | [Git](https://github.com/faramire/TT06-simple-stopwatch)     | [Git](https://github.com/faramire/TT06-simple-stopwatch)         |  |
-| 24/04 | 24/11 |     | SKY130 | 2404  | TT06 | Gate Guesser            | [Git](https://github.com/faramire/TT06-gate-guesser)         | [Git](https://github.com/faramire/TT06-gate-guesser)             |  |
+| 24/04 | 24/12 |     | SKY130 | 2404  | TT06 | PiMac                   | [Git](https://github.com/SteffenReith/TT06_PiMac)            | [Git](https://github.com/SteffenReith/TT06_PiMac)                |  |
+| 24/04 | 24/12 |     | SKY130 | 2404  | TT06 | Alternating Step Gen    | [Git](https://github.com/SteffenReith/TT06_ASG)              | [Git](https://github.com/SteffenReith/TT06_ASG)                  |  |
+| 24/04 | 24/12 |     | SKY130 | 2404  | TT06 | AudioChip v2            | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)           | [Git](https://github.com/ThorKn/TT06_AudioChip_V2)               |  |
+| 24/04 | 24/12 |     | SKY130 | 2404  | TT06 | Simple Stopwatch        | [Git](https://github.com/faramire/TT06-simple-stopwatch)     | [Git](https://github.com/faramire/TT06-simple-stopwatch)         |  |
+| 24/04 | 24/12 |     | SKY130 | 2404  | TT06 | Gate Guesser            | [Git](https://github.com/faramire/TT06-gate-guesser)         | [Git](https://github.com/faramire/TT06-gate-guesser)             |  |
 | 24/05 |       |     | IHP130 |       |      | ElemRV µController      | [Git](https://github.com/dnltz/ElemRV-init)                  | [Git](https://github.com/IHP-GmbH/IHP-Open-DesignLib/tree/main/ElemRV) |  |
 |**TO** |**Del**|**I**|**PDK** |**SR** |**Ser**| **Name**               | **Code** | **GDS** | **BU** |
 | 24/09 | 25/05 |     | SKY130 | 2409  | TT08 | Simple Stopwatch        | [Git](https://github.com/faramire/TT08-simple-stopwatch)     | [Git](https://github.com/faramire/TT08-simple-stopwatch)         |  |
